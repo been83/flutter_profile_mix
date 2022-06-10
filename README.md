@@ -1,6 +1,6 @@
 # flutter_profile_mix
 
-A new Flutter application.
+2022년 1학기 DreamUP
 
 ## Getting Started
 
