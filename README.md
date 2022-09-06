@@ -1,16 +1,18 @@
-# flutter_profile_mix
+# To_Do_list_App
 
-2022년 1학기 DreamUP
+2022년 3학년 1학기 드림업(DreamUp)
 
-## Getting Started
+Flutter를 이용한 To Do list 앱 개발
 
-This project is a starting point for a Flutter application.
+- 앱 로고 페이지 
+- 회원가입 페이지 및 로그인 페이지 
+- 메인 페이지 
+- 햄버거 바 페이지 
+- 프로필 설정 페이지
+- 메모 페이지 
+- 오늘의 할 일 페이지 제작 
 
-A few resources to get you started if this is your first Flutter project:
+- Firebase를 통한 DB 활용 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src = "https://user-images.githubusercontent.com/91533319/188643187-8cde4369-ee26-4c5c-b3d1-03222cb26139.png" width="50%" height="50%">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
