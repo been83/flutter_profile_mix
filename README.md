@@ -14,5 +14,5 @@ Flutter를 이용한 To Do list 앱 개발
 
 - Firebase를 통한 DB 활용 
 
-<img src = "https://user-images.githubusercontent.com/91533319/188643187-8cde4369-ee26-4c5c-b3d1-03222cb26139.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/91533319/188643187-8cde4369-ee26-4c5c-b3d1-03222cb26139.png" width="60%" height="60%">
 
